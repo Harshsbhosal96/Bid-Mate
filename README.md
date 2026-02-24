@@ -1,5 +1,5 @@
 # Auction-app
-This is a full-stack auction platform built using the MERN stack (MongoDB, Express.js, React, and Node.js). The platform allows users to create, bid on, and manage auctions in real-time. Link- https://bid-buddy.netlify.app/
+This is a full-stack auction platform built using the MERN stack (MongoDB, Express.js, React, and Node.js). The platform allows users to create, bid on, and manage auctions in real-time. 
 
 ## Features
 User Authentication: Secure user registration and login with JWT-based authentication.
@@ -30,4 +30,5 @@ SMTP_PASSWORD=
 FRONTEND_URL =
 MONGO_URI =
 Use node.js latest v along with mongodb to use locally
+
 
